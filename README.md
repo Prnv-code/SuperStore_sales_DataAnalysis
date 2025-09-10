@@ -50,18 +50,9 @@ This project is an **interactive Power BI dashboard** built to analyze the sales
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file (if provided in repo).  
+1. Download the `.pbix` file. 
 2. Open with **Power BI Desktop**.  
 3. Interact with filters (Region, Category, Sub-Category) to explore insights.  
-
----
-
-## 📂 Repository Structure
-📦 Super-Store-Sales-Dashboard
-┣ 📜 README.md
-┣ 📊 Super_Store_Sales.pbix (Power BI file if added)
-┣ 📑 Dataset.csv (Dataset if shared)
-┗ 🖼 Screenshot_Dashboard.png (Dashboard preview)
 
 
 ---
